@@ -28,16 +28,13 @@ python main.py --dataset cora --im_ratio 10 --tag_num 100 --hidden '64' --lr1 0.
 * CiteSeer
 ```
 python main.py --dataset citeseer --im_ratio 10 --tag_num 100 --hidden '128,64' --lr1 0.0001 --tau1 0.9 --alpha 0.2
-
 ```
 * WikiCS
 ```
 python main.py --dataset wikics --im_ratio 10 --tag_num 500 --hidden '256,128' --lr1 0.0001 --tau1 0.9 --tau2 0.09
-
 ```
 * PubMed
 ```
 python main.py --dataset pubmed --im_ratio 10 --tag_num 500 --hidden '128,64' --lr1 0.0005 --tau1 0.5
-
 ```
 
