@@ -9,8 +9,8 @@ TRACI is a novel framework for imbalanced text-attributed graph clustering, whic
 
 Start by following this source codes:
 ```bash
-git clone https://github.com/fuyw-aisw/MARK.git
-cd MARK
+git clone https://github.com/fuyw-aisw/TRACI.git
+cd TRACI
 pip -r requirements.txt
 ## or install the following dependencies
 ## step1: install PyTorch’s CUDA support on Linux
