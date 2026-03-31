@@ -1,16 +1,16 @@
-# TRACI
+# MASK
 PyTorch implementation for "Text-guided Group Mixup with Canonical Mining for Imbalanced Graph Clustering"
 
 # Overview
 
-TRACI is a novel framework for imbalanced text-attributed graph clustering, which leverages large language models to generate balanced, mixed groups with an emphasis on minority classes.
+MASK is a novel framework for imbalanced text-attributed graph clustering, which leverages large language models to generate balanced, mixed groups with an emphasis on minority classes.
 
 # Installation
 
 Start by following this source codes:
 ```bash
-git clone https://github.com/fuyw-aisw/TRACI.git
-cd TRACI
+git clone https://github.com/fuyw-aisw/MASK.git
+cd MASK
 pip -r requirements.txt
 ## or install the following dependencies
 ## step1: install PyTorch’s CUDA support on Linux
