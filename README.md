@@ -1,5 +1,5 @@
 # MASK
-PyTorch implementation for "Text-guided Group Mixup with Canonical Mining for Imbalanced Graph Clustering"
+PyTorch implementation for "MASK: Minority-aware Semantic Alignment via Knowledge Enhancement for Long-tailed Graph Clustering"
 
 # Overview
 
